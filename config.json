@@ -1,0 +1,134 @@
+{
+  "names": {
+    "sender": "Rinshad",
+    "receiver": "Sahasra"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, kunjaaa🤌🏻💗",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/assets/cute-bear.gif",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/kiss-bears.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/assets/gift/gift1.jpg",
+    "gift2": "/assets/gift/gift2.jpg", 
+    "gift3": "/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/assets/couple_photo/WhatsApp Image 2026-02-14 at 12.59.17 AM.jpeg",
+      "caption": "Our Starting"
+    },
+    {
+      "image": "/assets/couple_photo/WhatsApp Image 2026-02-14 at 12.59.18 AM.jpeg", 
+      "caption": "Memories together"
+    },
+    {
+      "image": "/assets/couple_photo/WhatsApp Image 2026-02-14 at 12.59.18 AM (1).jpeg",
+      "caption": "Our First Click"
+    },
+    {
+      "image": "/assets/couple_photo/WhatsApp Image 2026-02-14 at 12.59.18 AM (2).jpeg",
+      "caption": "Marriage day"
+    },
+    {
+      "image": "/assets/couple_photo/WhatsApp Image 2026-02-14 at 12.59.19 AM.jpeg",
+      "caption": "Propose day"
+    },
+    {
+      "image": "/assets/couple_photo/WhatsApp Image 2026-02-14 at 12.59.26 AM (1).jpeg",
+      "caption": "comforting presence"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 2,
+      "title": "Agasatha",
+      "duration": "4:59", 
+      "album": "Cuckoo",
+      "artist": "",
+      "cover": "/assets/album-covers/cuckoo.jpg",
+      "audio": "/assets/songs/agasatha.mp3"
+    }
+  
+   
+  ],
+  "letter": {
+    "title": "My Dearest Kunjaaa🤌🏻💗,",
+    "content": [
+      "To the love of my life🤌🏻💗 Happy Valentine's Day☺️🫶🏻You're🫵🏻 the reason my heart 🫀skips a beat, my soul finds peace, and my life feels complete🫂🥰. Forever and always, my love♥️🤍",
+      "You🫵🏻 make every day feel like a dream 🛌😴💭come true. You're the melody🎶 that fills my heart🫀 with joy 🤗and the rhythm that makes life worth🤌🏻🤍 living. I love youuu daa♥️ more with each passing day 💕",
+      " In ur those brown eyes🤎👀 i see my future with you🫂☺️🥰"
+    ],
+    "signature": "Forever yours,\nRam"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}

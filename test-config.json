@@ -1,0 +1,108 @@
+{
+  "names": {
+    "sender": "Alex",
+    "receiver": "Taylor"
+  },
+  "theme": {
+    "primaryColor": "#ff69b4",
+    "secondaryColor": "#ff1493",
+    "accentColor": "#fff0f5",
+    "fontFamily": "Georgia, serif"
+  },
+  "content": {
+    "title": "Be My Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "ABSOLUTELY YES! 💕",
+    "noButtonText": "NOT TODAY 💔",
+    "successMessage": "🎉 YAY! You made my day! 🎉",
+    "successSubtitle": "Best decision ever! Let's celebrate! 🥳",
+    "giftsTitle": "💝 Your Special Gifts 💝",
+    "giftsSubtitle": "Click here for your Valentine surprises!",
+    "songsTitle": "🎵 Our Love Playlist 🎵",
+    "photosTitle": "📸 Our Beautiful Memories 📸",
+    "letterTitle": "💌 To My Special Someone 💌",
+    "prosConsTitle": "Why You Should Say YES! 💖",
+    "prosConsSubtitle": "Just kidding... there are no cons! 😄"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "💌"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.png",
+    "gift2": "/src/assets/gift/gift2.png", 
+    "gift3": "/src/assets/gift/gift3.png"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "caption": "Our first adventure together"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "caption": "That time we cooked together (and didn't burn the house down!)"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "caption": "Our favorite music moments"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your favorite meals... sometimes without setting off the smoke alarm! 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited cuddles and emotional support"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen... really, I do! (Most of the time) 🙈"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Perfect",
+      "duration": "4:23",
+      "album": "÷ (Divide)",
+      "artist": "Ed Sheeran",
+      "cover": "/src/assets/ghajini.jpg",
+      "audio": "/src/assets/Oru-Maalai.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Taylor,",
+    "content": [
+      "From the moment I met you, my world became brighter.",
+      "You have this amazing ability to make everything better just by being there.",
+      "I can't imagine my days without your smile, your laugh, or your amazing company."
+    ],
+    "signature": "With all my heart,\nAlex"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous Song",
+    "next": "Next Song",
+    "play": "Play Music",
+    "pause": "Pause Music"
+  }
+}

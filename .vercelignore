@@ -1,0 +1,6 @@
+"scripts": {
+  "postinstall": "chmod +x node_modules/.bin/vite",
+  "dev": "vite",
+  "build": "node scripts/optimize-images.js && vite build",
+  "preview": "vite preview"
+}
